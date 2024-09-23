@@ -1,0 +1,17 @@
+
+# Ignore all .log files
+*.log
+
+# Ignore the node_modules/ directory (commonly used in Node.js projects)
+node_modules/
+
+# Ignore all compiled Python files
+*.pyc
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore build output
+/dist/
+/build/
